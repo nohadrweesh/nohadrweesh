@@ -5,7 +5,7 @@
 
 💡   &nbsp; Mostly interested in back-end development  \
 🎓  &nbsp; Came from Engineering background with BSc in Computer engineering\
-🌱  &nbsp;I'm on track for learning more about AWS technologies like EC2, VPC, SQS, SNS and lambda functions 
+🌱  &nbsp;I'm on track for learning more about AWS technologies like EC2, SQS, SNS , lambda functions ,API gateways ,....
 
 ### 🛠 &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=7377AD)&nbsp;
