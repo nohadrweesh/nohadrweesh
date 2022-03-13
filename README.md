@@ -3,9 +3,10 @@
 <a href="https://www.linkedin.com/in/nohadrweesh/"><img src="https://img.shields.io/badge/-Noha%20Drweesh-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
-💡   &nbsp; Mostly interested in back-end development  \
+💡   &nbsp; Mostly interested in Cloud Computing & back-end development  \
+⚡  &nbsp; AWS Certified Solutions Architect\
 🎓  &nbsp; Came from Engineering background with BSc in Computer engineering\
-🌱  &nbsp;I'm on track for learning more about AWS technologies like EC2, SQS, SNS , lambda functions ,API gateways ,....
+
 
 ### 🛠 &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=7377AD)&nbsp;
