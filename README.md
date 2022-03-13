@@ -5,7 +5,7 @@
 
 💡   &nbsp; Mostly interested in Cloud Computing & back-end development  \
 ⚡  &nbsp; AWS Certified Solutions Architect\
-🎓  &nbsp; Came from Engineering background with BSc in Computer engineering\
+🎓  &nbsp; Came from Engineering background with BSc in Computer engineering
 
 
 ### 🛠 &nbsp;Tech Stack
