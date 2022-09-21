@@ -3,6 +3,7 @@
 <a href="https://www.linkedin.com/in/nohadrweesh/"><img src="https://img.shields.io/badge/-Noha%20Drweesh-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
+:v: &nbsp; AWS Certified Solutions Architect \
 💡   &nbsp; Mostly interested in Cloud Computing & back-end development  \
 ⚡  &nbsp; AWS Certified Solutions Architect\
 🎓  &nbsp; Came from Engineering background with BSc in Computer engineering
